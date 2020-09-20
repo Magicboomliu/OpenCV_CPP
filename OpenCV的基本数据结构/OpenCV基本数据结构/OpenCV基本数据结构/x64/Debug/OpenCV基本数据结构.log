@@ -1,0 +1,4 @@
+﻿  run.cpp
+d:\cplus\opencv_cpp\opencv的基本数据结构\opencv基本数据结构\opencv基本数据结构\points类.h(22): warning C4305: “参数”: 从“double”到“float”截断
+d:\cplus\opencv_cpp\opencv的基本数据结构\opencv基本数据结构\opencv基本数据结构\矩阵的运算.h(43): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  OpenCV基本数据结构.vcxproj -> D:\cplus\OpenCV_CPP\OpenCV的基本数据结构\OpenCV基本数据结构\x64\Debug\OpenCV基本数据结构.exe
