@@ -48,9 +48,21 @@
 
 
 ---
+### **知识点二: 常见的一些图片操作：**    
+（1）图片ROI操作  
+
+（2）颜色通道的分离与组合 spilt（）和merge()函数  
+
+  (3)图像对比度与亮度(结合TrackerBar)  
+
+  （4）图像的离散傅里叶变换dft（）  
+
+   (5)YML文件，XML文件的读写操作
+
+---
 
 
- ### **知识点二: HighGui库的使用(OpenCV中的用户交互库)：**  
+ ### **知识点三: HighGui库的使用(OpenCV中的用户交互库)：**  
 
  （1）**图片的读取、显示、以及写入。**  
   * imread(), imshow(), imwrite(), nameWindows()的使用
@@ -75,8 +87,13 @@
    * rectangle() 画矩形函数的使用
 
     使用案例：使用鼠标画矩形  
-    **Path:\Highgui库的基本使用\Highgui库的基本使用\Highgui库的基本使用\OpenCV的鼠标交互操作.h**
+    **Path:\Highgui库的基本使用\Highgui库的基本使用\Highgui库的基本使用\OpenCV的鼠标交互操作.h**  
 
-       
+---
+### **知识点四： Image Processing 图像处理**  
+---
+### **知识点五： Image transfrom 图像变换**
+---
 
-    >> ## **更新中...**
+
+  ## **更新中...**

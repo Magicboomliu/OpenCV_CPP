@@ -1,0 +1,18 @@
+%YAML:1.0
+---
+framecout: 5
+cameraMatrix: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 1000., 0., 320., 0., 1000., 240., 0., 0., 1. ]
+features:
+   - 1312
+   - 123
+   - 3123
+   - 888
+   - 313
+   - 187
+mapping:
+   one: 1
+   two: 2

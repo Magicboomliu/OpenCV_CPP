@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "常见的图像操作", "常见的图像操作\常见的图像操作.vcxproj", "{156A5B6D-43EF-4AC6-818A-BD07D9BF7EDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{156A5B6D-43EF-4AC6-818A-BD07D9BF7EDF}.Debug|x64.ActiveCfg = Debug|x64
+		{156A5B6D-43EF-4AC6-818A-BD07D9BF7EDF}.Debug|x64.Build.0 = Debug|x64
+		{156A5B6D-43EF-4AC6-818A-BD07D9BF7EDF}.Debug|x86.ActiveCfg = Debug|Win32
+		{156A5B6D-43EF-4AC6-818A-BD07D9BF7EDF}.Debug|x86.Build.0 = Debug|Win32
+		{156A5B6D-43EF-4AC6-818A-BD07D9BF7EDF}.Release|x64.ActiveCfg = Release|x64
+		{156A5B6D-43EF-4AC6-818A-BD07D9BF7EDF}.Release|x64.Build.0 = Release|x64
+		{156A5B6D-43EF-4AC6-818A-BD07D9BF7EDF}.Release|x86.ActiveCfg = Release|Win32
+		{156A5B6D-43EF-4AC6-818A-BD07D9BF7EDF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BF739D6-76F6-4F73-BF89-30A19419C1FA}
+	EndGlobalSection
+EndGlobal

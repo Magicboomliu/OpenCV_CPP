@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<framecout>5</framecout>
+<cameraMatrix type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    1000. 0. 320. 0. 1000. 240. 0. 0. 1.</data></cameraMatrix>
+<features>
+  1312 123 3123 888 313 187</features>
+<mapping>
+  <one>1</one>
+  <two>2</two></mapping>
+</opencv_storage>
