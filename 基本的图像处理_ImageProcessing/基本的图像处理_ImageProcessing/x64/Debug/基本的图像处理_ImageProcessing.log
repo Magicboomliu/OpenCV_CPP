@@ -1,0 +1,4 @@
+﻿  run.cpp
+d:\cplus\opencv_cpp\基本的图像处理_imageprocessing\基本的图像处理_imageprocessing\腐蚀erode和膨胀dilate.h(9): warning C4005: “WindowName”: 宏重定义
+  d:\cplus\opencv_cpp\基本的图像处理_imageprocessing\基本的图像处理_imageprocessing\opencv滤波操作.h(30): note: 参见“WindowName”的前一个定义
+  基本的图像处理_ImageProcessing.vcxproj -> D:\cplus\OpenCV_CPP\基本的图像处理_ImageProcessing\x64\Debug\基本的图像处理_ImageProcessing.exe

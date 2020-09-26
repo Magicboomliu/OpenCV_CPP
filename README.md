@@ -91,6 +91,30 @@
 
 ---
 ### **知识点四： Image Processing 图像处理**  
+（1）OPENCV的 Filter操作  
+  * 方框滤波  
+  * 高斯滤波  
+  * 均值滤波  
+  * 双边滤波   
+  * 和中值滤波
+（2）腐蚀和膨胀：erode dilate    
+
+  (3)高斯金字塔和拉普拉斯金字塔  
+  * 上采样  
+  * 下采样  
+
+  （4）形态学操作  
+  * 开运算  
+  * 闭运算  
+  * 形态学梯度  
+  * Top Hat  
+  * Black Hat  
+
+   (5)Threshold操作  
+   * threshold()  
+   * adaptive_threshold()   
+
+
 ---
 ### **知识点五： Image transfrom 图像变换**
 ---
