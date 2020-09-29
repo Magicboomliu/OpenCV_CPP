@@ -1,2 +1,4 @@
 ﻿  run.cpp
+d:\cplus\opencv_cpp\图像变换\图像变换\仿射变换.h(34): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\cplus\opencv_cpp\图像变换\图像变换\仿射变换.h(48): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
   图像变换.vcxproj -> D:\cplus\OpenCV_CPP\图像变换\x64\Debug\图像变换.exe

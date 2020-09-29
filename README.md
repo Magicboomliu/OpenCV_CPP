@@ -116,7 +116,31 @@
 
 
 ---
-### **知识点五： Image transfrom 图像变换**
+### **知识点五： Image transfrom 图像变换**  
+  
+
+（1）边缘检测 eadge detection
+  * Canny算子  
+  * Sobel算子（计算x,y的gradient）
+  * Laplace算子(计算图形Laplace transfrom )  
+  * Scharr算子（x,y的差分）  
+
+（2）霍夫变换 Hough transfrom(检测标准几何图形)    
+  * HoughLines
+  * HoughlinesP  
+  * HoughCircles
+
+(3)仿射变换  
+  * getAffineTransfrom():根据三角形前后 求Affine Matrix  
+  * getRotation2DMatrix(): 根据 center, angel,scale求旋转矩阵
+  * warpAffine():应用仿射变换  
+
+（4）直方图均衡：针对灰度图像  
+  *   equalizeHist()   
+
+
+
+
 ---
 
 

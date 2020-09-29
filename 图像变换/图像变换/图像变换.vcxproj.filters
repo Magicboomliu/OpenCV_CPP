@@ -29,5 +29,11 @@
     <ClInclude Include="Hough变换综合应用.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="仿射变换.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="直方图均衡.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

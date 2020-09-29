@@ -119,8 +119,10 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Hough变换综合应用.h" />
+    <ClInclude Include="仿射变换.h" />
     <ClInclude Include="各种各样的边缘检测.h" />
     <ClInclude Include="检测圆和直线的Hough变换.h" />
+    <ClInclude Include="直方图均衡.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
