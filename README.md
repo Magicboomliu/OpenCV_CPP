@@ -117,7 +117,7 @@
 
 ---
 ### **知识点五： Image transfrom 图像变换**  
-  
+
 
 （1）边缘检测 eadge detection
   * Canny算子  
@@ -139,9 +139,32 @@
   *   equalizeHist()   
 
 
+---
+### **知识点六： 特征点提取与匹配(in Python)**  
 
+
+（1）特征点提取  
+
+  * Harris角点  
+  * Shi-Tomashi特征点
+  * Surf & U-Surf 特征点提取
+  * SIFT  
+  * FAST 特征点
+  * BRIEF 特征描述符
+  * ORB（Oriented Fast and Rotated BRIEF） 特征点与特征描述符法
+
+（2）特征点匹配    
+  * Brute-Force方法  
+  * FLANN 方法  
+
+（2）利用特征点进行图像的单应性变换（Homography）      
 
 ---
+
+### **Application1： OpenCV形态学操作实现银行卡ORB识别(in Python)**  
+
+
+
 
 
   ## **更新中...**
