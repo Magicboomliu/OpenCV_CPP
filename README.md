@@ -1,5 +1,5 @@
 ## OpenCV_CPP      following MagicBoom~（更新中）
- C++版本的opencv的快速学习与上手  
+ C++ & Python版本的opencv的快速学习与上手  
       ![blockchain]( https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1856784312,3552312626&fm=26&gp=0.jpg"区块链")
 
  **为美好世界献上Code，Explo**!**
