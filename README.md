@@ -161,7 +161,8 @@
 
 ---
 
-### **Application1： OpenCV形态学操作实现银行卡ORB识别(in Python)**  
+### **Application1： OpenCV形态学操作实现银行卡OCR识别 (in Python)**   
+### **Application2： OpenCV+ tesseract-OCR打印文本识别 (in Python)** 
 
 
 

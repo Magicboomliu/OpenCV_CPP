@@ -1,0 +1,39 @@
+pj Aci ESSING AND AA N TUE A CINC PIXELS
+
+On Line 14 we manipulate the top deft pixel in the im-
+age, which is located at coordinate (6, 0) and set it to have
+a value of (0, 0, 255). If we were reading this pixel value
+in RGB format, we would have a value of 6 for red, 6 for
+green, and 255 tor blue, thus making it a pure blue color
+
+However, as I mentioned above, we need to take special
+care when working with OpenCV. Our pixels are actually
+stored in BGR format, not RGB format.
+
+We actually read this pixel as 255 for red, 0 for green, and
+0 for blue, making it a red color, rot a blue color.
+
+After setting the top-left pixel to have a red color on Line
+14, we then grab the pixel value and print it back to con-
+sole on Lines 15 and 16, just to demonstrate that we have
+indeed successfully changed the color of the pixel
+
+Accessing and setting a single pixel value is simple enough,
+but what if we wanted to use NumPy's array slicing capa-
+bilities to access larger rectangular portions of the image?
+The code below demonstrates how we can do this:
+
+ 
+
+i> corner = image[{O0:100, 0: 100]
+ix cv2. , corner)
+
+ro image[O:100, 0:100] = (0, 255, 0)
+
+«s cv2.imshow( , image)
+m cv2.waitkey (0)
+
+On line 17 we grab a 100 + 100 pixel region of the image.
+In fact, this is the top-left corner of the image! In order to
+grab chunks of an image, NumPy expects we provide four
+
