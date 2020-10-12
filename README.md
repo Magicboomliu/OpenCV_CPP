@@ -1,8 +1,9 @@
 ## OpenCV_CPP      following MagicBoom~（更新中）
- C++ & Python版本的opencv的快速学习与上手  
-      ![blockchain]( https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1856784312,3552312626&fm=26&gp=0.jpg"区块链")
+ C++ & Python版本的opencv的快速学习与上手   
 
- **为美好世界献上Code，Explo**!**
+ <img src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1856784312,3552312626&fm=26&gp=0.jpg" width = "800" height = "500" alt="图片名称"  />  
+
+**为美好世界献上Code，Explo**!**
 ***  
 >Opencv3 Windows Visual Studio配置  
 >https://blog.csdn.net/weixin_42132144/article/details/82014559  
@@ -161,9 +162,17 @@
 
 ---
 
-### **Application1： OpenCV 形态学操作实现银行卡OCR识别 (in Python)**   
-### **Application2： OpenCV + Tesseract-OCR打印文本识别 (in Python)**   
+### **Application1： OpenCV 形态学操作实现银行卡OCR识别 (in Python)**
+![blockchain]( http://chuantu.xyz/t6/741/1602518414x1700468761.png)  
+### **Application2： OpenCV + Tesseract-OCR打印文本识别 (in Python)**
+![blockchain]( http://chuantu.xyz/t6/741/1602518456x1700468761.png)   
 ### **Application3： OpenCV基于特征点匹配的全景图拼接 (in Python)**
+![blockchain](http://chuantu.xyz/t6/741/1602518488x2073530529.png)
+### **Application4： 停车位实时识别Opencv+VGG16 (in Python)**  
+![blockchain]( http://chuantu.xyz/t6/741/1602518837x1700468761.png)
+* OpenCV: 车位划分 -->  
+* VGG16 是否停车 2分类
+
 
 
 
