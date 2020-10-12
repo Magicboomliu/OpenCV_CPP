@@ -4,7 +4,7 @@
  <img src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1856784312,3552312626&fm=26&gp=0.jpg" width = "800" height = "500" alt="图片名称"  />  
 
 **为美好世界献上Code，Explo**!**
-***  
+***   
 >Opencv3 Windows Visual Studio配置  
 >https://blog.csdn.net/weixin_42132144/article/details/82014559  
 >Opencv3+Opencv_Contrib Ubuntu 安装与配置
