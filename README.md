@@ -176,7 +176,7 @@
 ### **Application5： OpenCV答题卡自动评分（NoneZero Points）**   
 ![blockchain]( http://chuantu.xyz/t6/741/1602582553x2073530527.png)  
 ### **Application6： GMM背景建模实现Background Subtraction**
-![blockchain]( http://chuantu.xyz/t6/741/1602594820x2073530527.png)  
+![blockchain]( http://chuantu.xyz/t6/741/1602595190x2073530529.jpg)  
 
 
 
