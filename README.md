@@ -171,7 +171,11 @@
 ### **Application4： 停车位实时识别Opencv+VGG16 (in Python)**  
 ![blockchain]( http://chuantu.xyz/t6/741/1602518837x1700468761.png)
 * OpenCV: 车位划分 -->  
-* VGG16 是否停车 2分类
+* VGG16 是否停车 2分类  
+
+### **Application5： OpenCV答题卡自动评分（NoneZero Points）**   
+![blockchain]( http://chuantu.xyz/t6/741/1602582553x2073530527.png)
+
 
 
 
