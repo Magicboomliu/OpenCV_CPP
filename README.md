@@ -161,25 +161,31 @@
 （2）利用特征点进行图像的单应性变换（Homography）      
 
 ---  
-### **知识点七： Optical Flow光流估计(in Python)**  
+### **知识点六： Optical Flow光流估计(in Python)**  
 * 基于Shi-Tomashi特征点的Lucas-Kanade关键点稀疏光流估计  
 * 基于多项式集合的Dense光流估计  
 
 ### **Application1： OpenCV 形态学操作实现银行卡OCR识别 (in Python)**
-![blockchain]( http://chuantu.xyz/t6/741/1602518414x1700468761.png)  
+![blockchain](https://github.com/Magicboomliu/OpenCV_CPP/blob/master/Effectimages/Effect.png)  
 ### **Application2： OpenCV + Tesseract-OCR打印文本识别 (in Python)**
-![blockchain]( http://chuantu.xyz/t6/741/1602518456x1700468761.png)   
+![blockchain](https://github.com/Magicboomliu/OpenCV_CPP/blob/master/Effectimages/Effect2.png)   
 ### **Application3： OpenCV基于特征点匹配的全景图拼接 (in Python)**
-![blockchain](http://chuantu.xyz/t6/741/1602518488x2073530529.png)
+![blockchain](https://github.com/Magicboomliu/OpenCV_CPP/blob/master/Effectimages/RESULT.png)
 ### **Application4： 停车位实时识别Opencv+VGG16 (in Python)**  
-![blockchain]( http://chuantu.xyz/t6/741/1602518837x1700468761.png)
+![blockchain]( https://github.com/Magicboomliu/OpenCV_CPP/blob/master/Effectimages/ss1.png)
 * OpenCV: 车位划分 -->  
 * VGG16 是否停车 2分类  
 
 ### **Application5： OpenCV答题卡自动评分（NoneZero Points）**   
-![blockchain]( http://chuantu.xyz/t6/741/1602582553x2073530527.png)  
+![blockchain]( https://github.com/Magicboomliu/OpenCV_CPP/blob/master/Effectimages/da0.png)  
 ### **Application6： GMM背景建模实现Background Subtraction**
-![blockchain]( http://chuantu.xyz/t6/741/1602595190x2073530529.jpg)  
+![blockchain]( http://chuantu.xyz/t6/741/1602595190x2073530529.jpg)   
+### **Application7： OpenCV+Caffe实现图片分类与目标跟踪**
+![blockchain](https://github.com/Magicboomliu/OpenCV_CPP/blob/master/Effectimages/Test3.png)  
+![blockchain](https://github.com/Magicboomliu/OpenCV_CPP/blob/master/Effectimages/dlib.png)  
+![blockchain](https://github.com/Magicboomliu/OpenCV_CPP/blob/master/Effectimages/Orgin.png)
+* Caffe ImageNet classification Opencv调用  
+*  Caffe mobileSSD object_detection OpenCV调用
 
 
 
