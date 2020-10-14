@@ -179,7 +179,7 @@
 ### **Application5： OpenCV答题卡自动评分（NoneZero Points）**   
 ![blockchain]( https://github.com/Magicboomliu/OpenCV_CPP/blob/master/Effectimages/da0.png)  
 ### **Application6： GMM背景建模实现Background Subtraction**
-![blockchain]( http://chuantu.xyz/t6/741/1602595190x2073530529.jpg)   
+![blockchain]( https://github.com/Magicboomliu/OpenCV_CPP/blob/master/Effectimages/bg_5.png)   
 ### **Application7： OpenCV+Caffe实现图片分类与目标跟踪**
 ![blockchain](https://github.com/Magicboomliu/OpenCV_CPP/blob/master/Effectimages/Test3.png)  
 ![blockchain](https://github.com/Magicboomliu/OpenCV_CPP/blob/master/Effectimages/dlib.png)  
