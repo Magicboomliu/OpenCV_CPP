@@ -161,7 +161,7 @@
 （2）利用特征点进行图像的单应性变换（Homography）      
 
 ---  
-### **知识点六： Optical Flow光流估计(in Python)**  
+### **知识点七： Optical Flow光流估计(in Python)**  
 * 基于Shi-Tomashi特征点的Lucas-Kanade关键点稀疏光流估计  
 * 基于多项式集合的Dense光流估计  
 
